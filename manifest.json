@@ -1,6 +1,6 @@
 {
-  "name": "Budget Flow",
-  "short_name": "Budget",
+  "name": "Tirlocuu Budget Flow",
+  "short_name": "Tirlocuu",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#e0f7ff",
